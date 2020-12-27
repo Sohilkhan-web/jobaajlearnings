@@ -1,2 +1,0 @@
-# jobaajlearnings
-GitHubtest
